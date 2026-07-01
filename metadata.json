@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "An elegant, highly-aesthetic personal investment, goal, and savings tracker with local database persistence and real-time financial projections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
